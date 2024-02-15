@@ -26,6 +26,6 @@
 </p>
 <h3>My Portfolio</h3>
 <ul>
-  <li><a href="zouhair-ahajam.vercel.app"><i>Portfolio</i></a></li>
+  <li><a href="https://zouhair-ahajam.vercel.app/"><i>Check My Portfolio </i></a></li>
 </ul>
 
